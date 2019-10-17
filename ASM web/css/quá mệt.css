@@ -1,0 +1,408 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 13px;
+	width: 1000px;
+	margin: 0px auto;
+	background-color: #ACD1FF; 
+}
+#mid{
+	background: no;
+	height:40px;
+	width: 1000px;
+}
+
+
+
+#DN{background: #FFFFFF;
+	height: 20px;
+	margin: 0 auto;
+	
+}
+#DN a:hover{
+	background: #000000;
+	color: white;
+}
+#DN a{
+	text-align: right;
+	float: right;
+	padding: 0px 13.6px 0px 14px;
+	margin: 0 2px;
+	text-decoration: none;
+	color: black;}
+#nav_TKkkk{
+	background: url("../img/tk.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_GHH{
+	background: url("../img/icon-1001596_960_720.png") no-repeat left;
+	background-size: 15px 15px;
+}
+
+
+#nhothoi{
+	background: #FFFFFF;
+	width: 1000px;
+	text-align: center;
+	height: 30px;
+	
+}
+#metqua{background: #FFFFFF;
+	height: 60px;
+	margin: 0 auto;
+}
+#metqua img{
+	width: 180px;
+	float: left;
+}
+
+.SSSSSS{
+   background: url("../img/nen.jpg");
+    width: 560px;
+	height: 35px;
+	float: right;
+	margin-right: 20px;
+	border-radius: 5px;
+	
+}
+.SSSSSS .search_text{
+	padding: 8px 0 0 15px;
+	float: left;
+	width: 110px;
+	color: red;
+}
+.SSSSSS .search_text a{
+	color: #999999;
+	text-decoration: none;
+}
+.SSSSSS .search_bt{
+	margin-top: 5px;
+	border: 1px solid #dbbdbd;
+	float: left;
+}
+.form-control{
+    padding-top: 5px;
+    margin-top: 5px;
+    width: 400px;
+    margin-bottom: 10px;
+	border-radius: 50px;
+	float: right;
+}
+
+
+#banner{
+	background: black;
+	height:402px;
+	width: 1000px;
+}
+
+#main #left{
+	width: 800px;
+	background: no;
+	min-height: 900px;
+	float:left;
+ 
+}
+
+ #right{
+	width:200px;
+	background: no;
+	float:left;
+	min-height: 350px;
+}
+#main #right1{
+	width:200px;
+	float:left;
+	min-height: 30px;}
+#main #right2{
+	width:200px;
+	background: #3D3D3D;
+	float:left;
+	min-height: 540px;}
+#main #right3{
+	width:200px;
+	float:left;
+	min-height: 25px;}
+
+#footer{
+	background: #9F9F9F;
+	width: 1000px;
+	text-align: center;
+	height: 250px;
+	color: #FFFFFF;
+	clear: left;
+}
+#footer #box{
+			width:300px;
+			height:45px;
+			position: absolute;
+			top: 1560px;
+			left: 370px;
+		background: #DEDBDB ;
+	}
+.clear{
+	clear: both;
+}
+
+#fr{
+	background: #000000;
+	width: 1000px;
+	text-align: center;
+	height: 20px;
+	color: #FFFFFF;
+	
+}
+
+
+
+
+#content{ 
+	background:#DEDBDB;
+	height: 40px;}
+
+
+#content ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+		text-align: center;
+}
+
+#content ul li{
+	list-style: none;
+	width: 97.5px;
+	display: inline-table;
+	
+}
+
+#content ul li a{
+	display: block;
+	float: left;
+	padding: 0px 13.6px 0px 14px;
+	margin: 0 2px;
+	text-decoration: none;
+	height: 40px;
+	line-height: 40px;
+	color: black;
+}
+#content ul li a:hover{
+	background: #CDCDCD;
+	color: #333333;
+}
+#menu_tab{
+	width: 1000px;
+	height: 40px;
+}
+#footer #box p.dinhdang{
+	text-align: left;
+} 
+
+
+#nav_HM{
+	
+	background: url("../img/new.png") no-repeat left;
+	background-size: 15px 15px
+}
+#nav_TM{
+	background: url("../img/oto.png") no-repeat left;
+	background-size: 15px 15px
+}
+
+#nav_MB{
+	background: url("../img/may bay.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_DK{
+	background: url("../img/dieu khien.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_FFF{
+	background: url("../img/ironman-icon-25.jpg") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_MHN{
+	background: url("../img/home.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_PKK{
+	background: url("../img/pk.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_HGG{
+	background: url("../img/sale.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_TTT{
+	background: url("../img/newsss.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_active{
+	background: url("../img/trang chu.png") no-repeat left;
+	background-size: 15px 15px;
+}
+#nav_DangNhap{
+	background: url("../img/Login-icon.png") no-repeat left;
+	background-size: 15px 15px;
+}
+
+#nav_DangKi{
+	background: url("../img/Registration_Icon490X452.png") no-repeat left;
+	background-size: 15px 15px;
+}
+
+.column{
+    width: 25%;
+    float: left;
+}
+.san-pham{
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.san-pham .ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color:blue;
+}
+.san-pham img{
+    max-width: 95%;
+}
+.san-pham .gia{
+    color:red;
+    font-weight: bold;
+    font-size: larger;
+}
+.san-pham .gia del{
+    color: gray;
+}
+#left div>img{
+    border-radius: 10px;
+    background-color: yellow;
+    box-shadow: 0 0 5px blue;
+}
+iframe[name=page]{
+    width: 100%;
+    min-height: 915px;
+}
+#left div>img:hover{
+    box-shadow: 0 0 20px pink;
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+    color:red;
+}
+
+<================>
+#main #right{
+	width:200px;
+	background: blue;
+	float:left;
+	min-height: 1000px	
+}
+
+ #menuright ul{
+	background: #C2C2C2;
+	 width: 200px;
+	padding: 0px;
+	 list-style-type: none;
+}
+ #menuright ul li{
+	 width: auto;
+	 height: 40px;
+	 line-height: 40px;
+	border-bottom: 1px solid #e8e8e8;
+	 padding: 0px 1em;
+	 position: relative;
+}
+#menuright ul li a{
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+	display: block;
+}
+#menuright ul li:hover{
+	background: #FFFFFF;
+}
+
+#main #right #menuright h3{
+	background: #C8B7B7 url("../img/menu.png") no-repeat;
+	background-size: 30px 35px;
+	height: 40px;
+	margin-top: 0px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 40px;
+	color: #454343;
+}
+#menuright .subbmenu{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .subbmenu{
+	display: block;
+}
+
+#menuright .subbbb{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .subbbb{
+	display: block;
+}
+
+#menuright .subbbbm{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .subbbbm{
+	display: block;
+}
+#menuright .subm{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .subm{
+	display: block;
+}
+#menuright .submm{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .submm{
+	display: block;
+}
+#menuright .submmm{
+	position: absolute;
+	left: 200px;
+	top:0;
+	display: none;
+	
+}
+#menuright ul li:hover .submmm{
+	display: block;
+}
+
+
+
+
+
+
